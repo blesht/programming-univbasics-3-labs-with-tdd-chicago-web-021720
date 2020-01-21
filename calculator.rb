@@ -14,3 +14,7 @@ def prodFunc(first,second)
   first*second
 end
 product=prodFunc(first_number,second_number)
+def quotFunc(first,second)
+  first/second
+end
+quotient = quotFunc(first_number,second_number)
