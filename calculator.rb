@@ -9,3 +9,8 @@ def difFunc(first,second)
   first-second
 end
 difference = difFunc(first_number,second_number)
+
+def prodFunc(first,second)
+  first*second
+end
+product=prodFunc(first_number,second_number)
